@@ -1,7 +1,7 @@
 package com.skyluxsky;
 
-import java.awt.*;//AWT = abstract window toolkit!
-import java.awt.event.WindowAdapter;
+import java.awt.*;//AWT = abstract window toolkit! (* imports all classes from java.awt)
+import java.awt.event.WindowAdapter;//java.awt.event is its own package...
 import java.awt.event.WindowEvent;
 
 public class MyWindow extends Frame {
