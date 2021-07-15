@@ -3,7 +3,10 @@ package com.skyluxsky;
 //we can import our new self made package into our new project, once .jar file has been added to libraries section in
 //file -> project structure.
 
-import com.example.game.*;
+//Imports our packages from self made package/library
+import com.example.game.ISaveable;
+import com.example.game.Monster;
+import com.example.game.Player;
 import java.util.ArrayList;
 import java.util.Scanner;
 
