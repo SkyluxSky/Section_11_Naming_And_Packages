@@ -7,20 +7,25 @@ package com.skyluxsky;
 public class Main {
 
     public static void main(String[] args) {
-        String privateVar = "This is private to main()";
+        String varFour = "This is private to main()";
 
         ScopeCheck scopeInstance = new ScopeCheck();
-        System.out.println("scopeInstance privateVar is " + scopeInstance.getPrivateVar());
+        System.out.println("scopeInstance varOne is " + scopeInstance.getVarOne());
+        scopeInstance.useInner(); //Method calls inner class...
+
+        ScopeCheck.InnerClass innerClass = scopeInstance.new InnerClass();
+        System.out.println("varThree is not accessible here " + innerClass.getVarThree());//varThree is private need getter
 
         //In scope variable for main method.
-        System.out.println(privateVar); //privateVar from Main()
+        System.out.println(varFour); //privateVar from Main()
 
         scopeInstance.timesTwo();//Prints local variable times two
         System.out.println("*******************************************");
 
         //Calls inner class
-        ScopeCheck.InnerClass innerClass = scopeInstance.new InnerClass();
-        innerClass.timesTwo();
+        ScopeCheck.InnerClass innerClassCall = scopeInstance.new InnerClass();
+        innerClassCall.timesTwo();
+
 
 
     }
