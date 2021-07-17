@@ -3,8 +3,10 @@ package com.skyluxsky;
 import java.util.Scanner;
 
 public class X {
+    //Field/Member Variable
     private int x;
 
+    //Constructor
     public X(Scanner x) {
         System.out.println("Please Enter a Number: ");
         this.x = x.nextInt();
