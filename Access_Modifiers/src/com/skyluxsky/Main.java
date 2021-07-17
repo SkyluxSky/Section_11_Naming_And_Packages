@@ -24,7 +24,8 @@ package com.skyluxsky;
 *Private: the object is only visible within the class it is declared. It is not visible
 * anywhere else (including the subclasses of its class).
 *
-*
+*Protected: the object is visible anywhere in its own package (like package-private) but
+* also in subclasses even if they are in another package.
 *
 * */
 
