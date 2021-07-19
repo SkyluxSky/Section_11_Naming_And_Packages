@@ -2,7 +2,7 @@ package com.skyluxsky;
 
 //Example of basic XOR - returns original password and compares it to encrypted password
 
-public final class Password {
+public class Password {
     private static final int key = 748576362;
     private final int encryptedPassword;
 
@@ -16,7 +16,8 @@ public final class Password {
         return password ^ key;//Encrypts password with key
     }
 
-    public void storePassword(){
+    //A final method cannot be overrided.
+    public final void storePassword(){
         System.out.println("Saving password as " + this.encryptedPassword);
     }
 

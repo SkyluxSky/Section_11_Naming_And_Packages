@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6b563b3-ccd7-485a-a36a-8a967859aca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/skyluxsky/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/skyluxsky/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/skyluxsky/SomeClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StaticStatement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StaticStatement/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/skyluxsky/ExtendedPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/skyluxsky/SIBTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/skyluxsky/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/skyluxsky/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/skyluxsky/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/skyluxsky/Password.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,26 +64,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1626714113464">
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1626717555659">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1626714113464" />
-    <state width="761" height="899" key="GridCell.Tab.0.bottom" timestamp="1626715891093">
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1626717555659" />
+    <state width="761" height="899" key="GridCell.Tab.0.bottom" timestamp="1626719645204">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="761" height="899" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1626715891093" />
-    <state width="761" height="899" key="GridCell.Tab.0.center" timestamp="1626715891093">
+    <state width="761" height="899" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1626719645204" />
+    <state width="761" height="899" key="GridCell.Tab.0.center" timestamp="1626719645203">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="761" height="899" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1626715891093" />
-    <state width="761" height="899" key="GridCell.Tab.0.left" timestamp="1626715891093">
+    <state width="761" height="899" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1626719645203" />
+    <state width="761" height="899" key="GridCell.Tab.0.left" timestamp="1626719645203">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="761" height="899" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1626715891093" />
-    <state width="761" height="899" key="GridCell.Tab.0.right" timestamp="1626715891093">
+    <state width="761" height="899" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1626719645203" />
+    <state width="761" height="899" key="GridCell.Tab.0.right" timestamp="1626719645204">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="761" height="899" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1626715891093" />
+    <state width="761" height="899" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1626719645204" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1626713452202">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

@@ -3,6 +3,11 @@ package com.skyluxsky;
 //Final is used to define constants
 //We can define a final field when we create it or when we initiate a constructor
 
+
+//Static Instance Constructors:
+//-Known as Static Initialization Blocks...
+//-Only starts up once the program boots
+
 public class Main {
 
     public static void main(String[] args) {
@@ -30,11 +35,19 @@ public class Main {
 
         //Example of why you would want to utilize final when creating some classes.
         int passwordEntry = 674312;
-        Password password = new Password(passwordEntry);
+        Password password = new ExtendedPassword(passwordEntry);
         password.storePassword();
         password.letMeIn(passwordEntry);
         password.letMeIn(182793);
         password.letMeIn(0);
+
+
+        //Test SIB
+        System.out.println("\nMain method called:");
+        SIBTest test = new SIBTest();//Calls Constructor and both Static Initializers
+        test.someMethod();//Calls Some Method
+        System.out.println("Owner is " + SIBTest.owner);
+
 
     }
 }
