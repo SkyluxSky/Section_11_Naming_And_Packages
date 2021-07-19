@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0651f406-44af-420e-959f-771176296f7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StaticStatement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/skyluxsky/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/skyluxsky/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,21 +64,25 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="765" y="240" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1050/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1626628452784" />
-    <state width="761" height="899" key="GridCell.Tab.0.bottom" timestamp="1626629787784">
+    <state width="761" height="899" key="GridCell.Tab.0.bottom" timestamp="1626629896928">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="761" height="899" key="GridCell.Tab.0.bottom/1920.0.1920.1050/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1626629787784" />
-    <state width="761" height="899" key="GridCell.Tab.0.center" timestamp="1626629787784">
+    <state width="761" height="899" key="GridCell.Tab.0.bottom/1920.0.1920.1050/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1626629896928" />
+    <state width="761" height="899" key="GridCell.Tab.0.center" timestamp="1626629896928">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="761" height="899" key="GridCell.Tab.0.center/1920.0.1920.1050/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1626629787784" />
-    <state width="761" height="899" key="GridCell.Tab.0.left" timestamp="1626629787784">
+    <state width="761" height="899" key="GridCell.Tab.0.center/1920.0.1920.1050/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1626629896928" />
+    <state width="761" height="899" key="GridCell.Tab.0.left" timestamp="1626629896928">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="761" height="899" key="GridCell.Tab.0.left/1920.0.1920.1050/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1626629787784" />
-    <state width="761" height="899" key="GridCell.Tab.0.right" timestamp="1626629787784">
+    <state width="761" height="899" key="GridCell.Tab.0.left/1920.0.1920.1050/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1626629896928" />
+    <state width="761" height="899" key="GridCell.Tab.0.right" timestamp="1626629896928">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="761" height="899" key="GridCell.Tab.0.right/1920.0.1920.1050/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1626629787784" />
+    <state width="761" height="899" key="GridCell.Tab.0.right/1920.0.1920.1050/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1626629896928" />
+    <state x="342" y="145" key="new project wizard" timestamp="1626712685781">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="145" key="new project wizard/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1626712685781" />
   </component>
 </project>
